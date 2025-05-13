@@ -1,0 +1,5 @@
+Entered credits
+Progress - 120,0,0
+Progress (module trailer) - 100,20,0
+Exclude - 0,20,100
+Progress (module trailer) - 100,20,0
